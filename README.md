@@ -1,2 +1,2 @@
 # Hi-World
-Learn how ro used GiHub
+Learn how ro used GitHub
